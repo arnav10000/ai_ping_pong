@@ -1,0 +1,44 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: 25px;
+    text-align: left;
+}
+
+.instruction {
+    margin-left: 970px;
+}
+
+.btn-primary {
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+canvas {
+    border: 3px white solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 120px;
+}
+
+.btn-warning {
+    font-size: 20px;
+}
+
+.btn-danger {
+    font-size: 20px;
+}
+
+.footer {
+    line-height: 3;
+    color: black;
+    background-color: white;
+    bottom: 0;
+    margin-bottom: 0px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
